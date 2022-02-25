@@ -1,0 +1,22 @@
+{
+    "name": "summerpassion/rocket-footprint",
+    "description": "footprint for ThinkPhp6.x",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "rocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SummerPassion",
+            "email": "695998135@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.3.0",
+        "summerpassion/rocket-utils": "^1.0"
+    }
+}
