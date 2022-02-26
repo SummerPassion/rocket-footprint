@@ -15,10 +15,10 @@ declare (strict_types=1);
  * DateTime: 2022-02-25 19:01:56
  */
 
-namespace rocket;
+namespace rocket_footprint;
 
-use rocket\contracts\Driver;
-use rocket\exception\FootprintException;
+use rocket_footprint\contracts\Driver;
+use rocket_footprint\exception\FootprintException;
 use think\facade\Config;
 
 /**

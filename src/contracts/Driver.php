@@ -15,7 +15,7 @@ declare (strict_types=1);
  * DateTime: 2022-02-25 19:11:44
  */
 
-namespace rocket\contracts;
+namespace rocket_footprint\contracts;
 
 /**
  * Class Driver
