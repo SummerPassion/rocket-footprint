@@ -8,6 +8,13 @@
             "rocket_footprint\\": "src/"
         }
     },
+    "extra": {
+        "think":{
+            "config":{
+                "footprint": "src/config.php"
+            }
+        }
+    },
     "authors": [
         {
             "name": "SummerPassion",
