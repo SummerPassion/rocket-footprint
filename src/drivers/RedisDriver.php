@@ -18,7 +18,7 @@ declare (strict_types=1);
 namespace rocket_footprint\drivers;
 
 use rocket_footprint\contracts\Driver;
-use rocket_footprint\Utils;
+use rocket_utils\Utils;
 use think\facade\Config;
 
 /**
